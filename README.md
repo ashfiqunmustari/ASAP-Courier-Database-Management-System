@@ -1,11 +1,9 @@
 # ASAP Courier Database Management System
 
-### Project Overview
--------------------------
+## Project Overview
 The **ASAP Courier Management System** is designed as an all one system that brings the administration, customers, and the employees together under one system. It provides efficient courier service, accurate and exact information throughout all the branches, proper parcel distribution, location wise pricing, parcel tracking, and many more features to provide an efficient courier management system.
 
-### Key Features
---------
+## Key Features
 
 #### Admin Interface
 - **Profile Management**: View and manage personal information.
@@ -33,8 +31,7 @@ The project showcases my proficiency in:
   - Aggregation functions (COUNT, SUM, AVG)
   - GROUP BY and ORDER BY clauses
   - Advanced search functionalities
-### Softwares Used
-______________________
+## Softwares Used
 - **Frontend**: Java Swing
 - **Backend**: Java, MySQL
 - **IDE**: NetBeans IDE 12.4
