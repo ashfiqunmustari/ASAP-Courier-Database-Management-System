@@ -1,9 +1,9 @@
 # ASAP Courier Management System
 
-### <span style="color:blue">Project Overview</span>
+### Project Overview
 The **ASAP Courier Management System** is designed as an all one system that brings the administration, customers, and the employees together under one system. It provides efficient courier service, accurate and exact information throughout all the branches, proper parcel distribution, location wise pricing, parcel tracking, and many more features to provide an efficient courier management system.
 
-### <span style="color:blue">Key Features</span>
+### Key Features
 
 #### Admin Interface
 - **Profile Management**: View and manage personal information.
@@ -18,7 +18,7 @@ The **ASAP Courier Management System** is designed as an all one system that bri
 - **Order Requests**: View and accept assigned orders.
 - **Pending Deliveries**: Update delivery status as orders are processed.
 
-### <span style="color:blue">Softwares Used</span>
+### Softwares Used
 - **Frontend**: Java Swing
 - **Backend**: Java, MySQL
 - **IDE**: NetBeans IDE 12.4
