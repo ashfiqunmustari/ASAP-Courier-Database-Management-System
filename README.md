@@ -1,4 +1,4 @@
-# ASAP Courier Management System
+# ASAP Courier Database Management System
 
 ### Project Overview
 -------------------------
@@ -22,6 +22,17 @@ The **ASAP Courier Management System** is designed as an all one system that bri
 ## Relationship Schema
 ____________________
 ![Relationship Schema](https://github.com/ashfiqunmustari/ASAP-Courier-Database-Management-System/blob/main/RelationshipSchema.png?raw=true)
+
+## Database Management Skills
+The project showcases my proficiency in:
+- **SQL Queries**: Used to interact with the database and manage data for customers, employees, orders, and payments.
+- **Database Structure Design**: Designed an efficient relational schema to manage courier operations.
+- **Advanced SQL Operations**: Employed various SQL commands for data retrieval, updates, and search functionalities, including:
+  - SELECT, INSERT, UPDATE, DELETE
+  - JOINs (INNER, LEFT, RIGHT)
+  - Aggregation functions (COUNT, SUM, AVG)
+  - GROUP BY and ORDER BY clauses
+  - Advanced search functionalities
 ### Softwares Used
 ______________________
 - **Frontend**: Java Swing
