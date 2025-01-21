@@ -17,7 +17,9 @@ The **ASAP Courier Management System** is designed as an all one system that bri
 #### Employee Interface
 - **Order Requests**: View and accept assigned orders.
 - **Pending Deliveries**: Update delivery status as orders are processed.
+## Relationship Schema
 
+![Relationship Schema](https://github.com/ashfiqunmustari/ASAP-Courier-Database-Management-System/blob/main/RelationshipSchema.png?raw=true)
 ### Softwares Used
 - **Frontend**: Java Swing
 - **Backend**: Java, MySQL
